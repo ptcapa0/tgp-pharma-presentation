@@ -1,0 +1,16 @@
+{
+  "brandName": "TGP",
+  "colors": {
+    "primary": "#002664",
+    "secondary": "#0077C8",
+    "accent": "#65C4E8",
+    "text": {
+      "dark": "#1A1A1A",
+      "light": "#FFFFFF"
+    }
+  },
+  "typography": {
+    "primaryFont": "Inter",
+    "secondaryFont": "Arial"
+  }
+}
